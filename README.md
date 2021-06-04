@@ -11,8 +11,8 @@ JSF, Servlet, Hibernate Java 8, MySQL.
 ### Como executar a aplicação
 Certifique-se de ter o Maven instalado e adicionado ao PATH de seu sistema operacional, assim como o Git.
 ```
-git clone https://github.com/joaodematejr/proof_java_2
-cd proof_java_2
+git clone https://github.com/luiz-amboni/N2-web.git
+cd N2-web
 mvn spring-boot:run
 Acesse http://localhost:8080/prova/dashboard.xhtml
 ```
